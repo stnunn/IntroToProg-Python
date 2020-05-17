@@ -1,0 +1,10 @@
+Get Up,1
+Brush Teeth,2
+Wash Face,3
+Apply Deodorant,4
+Get Dressed,5
+Drive to Work,6
+Work,7
+Drive Home,8
+Eat Dinner,9
+Go to Bed,10
